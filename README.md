@@ -9,3 +9,6 @@
 [ВКонтакте](https://vk.com/amamentev)  
 [Telegram](https://t.me/sshurikkm)
 
+<p align="center">
+  <img src="./open_for_collaboration.svg" width="800" />
+</p>
