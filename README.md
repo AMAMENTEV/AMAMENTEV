@@ -10,5 +10,7 @@
 [Telegram](https://t.me/sshurikkm)
 
 <p align="center">
-  <img src="https://api.screenshotmachine.com/?key=99b828&url=https://amamentev.github.io/wiget/&dimension=800x250&device=desktop" alt="ОШИБКА 404 // VOID" />
+  <a href="https://amamentev.github.io/wiget/" target="_blank">
+    <img src="./widget.svg" width="800" alt="ОШИБКА 404 — Кликни, чтобы разрушить текст" />
+  </a>
 </p>
